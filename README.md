@@ -25,6 +25,8 @@
 - 🐍 Uso principalmente **Python** nos meus estudos diários e projetos.
 - 📝 Prático exercícios diários de lógica e códigos para fixar o aprendizado.
 - 🍨 **Projeto recente:** Fiz a modelagem do banco de dados de uma loja de açaí fictícia para a Feira Tecnológica da escola.
+- 🇺🇸 **Inglês:** Boa capacidade de compreensão (listening/reading) e conversação em nível básico-intermediário.
+
 
 ---
 
