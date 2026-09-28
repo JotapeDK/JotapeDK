@@ -1,9 +1,9 @@
 <div align="center">
 
-# E ai, eu sou o João Pedro! 👾
-### ⚡ Desenvolvedor Full-Stack & Estudante ETEC
+# Olá, eu sou o João Pedro! 👋
+### Desenvolvedor Full-Stack & Estudante de Desenvolvimento de Sistemas na ETEC
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzcXBzeXI1ZnpjdXVjcmlwMGs5bzI5OHBrcXV0bnl4aHNuaWZ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4vMmnnPx/giphy.gif" width="400" alt="Developer GIF">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzcXBzeXI1ZnpjdXVjcmlwMGs5bzI5OHBrcXV0bnl4aHNuaWZ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4vMmnnPx/giphy.gif" width="380" alt="Developer GIF">
 
 <p align="center">
   <a href="https://instagram.com/juaosilvaa_">
@@ -18,17 +18,17 @@
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 
-- 🎓 **Formação:** 2º ano do Ensino Técnico Integrado ao Médio na **ETEC**.
-- 🎯 **Foco Principal:** Desenvolvimento **Full-Stack** (Front-End & Back-End).
-- 🐍 **Stack Base:** **Python**, aplicado em automações, sistemas e rotinas de estudo.
-- ⚙️ **Lógica & Prática:** Exercícios diários de algoritmo e desenvolvimento de aplicações completas.
-- 🗄️ **Destaque:** Arquitetura e modelagem do **Banco de Dados para Loja de Açaí**, apresentado na Feira Tecnológica.
+- 🎓 Estou no 2º ano do ensino técnico na **ETEC**, focado em programação.
+- 💻 Estudo desenvolvimento **Full-Stack**, trabalhando tanto com lógica de back-end quanto com telas.
+- 🐍 Uso principalmente **Python** nos meus estudos diários e projetos.
+- 📝 Prático exercícios diários de lógica e códigos para fixar o aprendizado.
+- 🍨 **Projeto recente:** Fiz a modelagem do banco de dados de uma loja de açaí fictícia para a Feira Tecnológica da escola.
 
 ---
 
-### 🛠️ Stacks & Ferramentas
+### Tecnologias que utilizo
 
 <div align="center">
 
@@ -36,7 +36,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,7 +44,7 @@
 
 ---
 
-### 📈 Métricas de Código
+### Minhas estatísticas
 
 <div align="center">
 
@@ -64,8 +63,8 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9sv3y0/giphy.gif" width="300" alt="Coding GIF">
+<img src="https://media.giphy.com/media/L1R1tvI9sv3y0/giphy.gif" width="280" alt="Coding GIF">
 
-<p><i>"Transformando ideias em código, da interface ao banco de dados."</i></p>
+<p><i>"Praticando todos os dias para construir soluções cada vez melhores."</i></p>
 
 </div>
