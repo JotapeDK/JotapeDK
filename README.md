@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o João Pedro! 👋
+# Olá, eu sou o João Pedro!
 ### Desenvolvedor Full-Stack & Estudante de Desenvolvimento de Sistemas na ETEC
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzcXBzeXI1ZnpjdXVjcmlwMGs5bzI5OHBrcXV0bnl4aHNuaWZ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4vMmnnPx/giphy.gif" width="380" alt="Developer GIF">
