@@ -2,7 +2,7 @@
 <div align="center">
 
 # Olá, eu sou o João Pedro! 👋
-### 🐍 Desenvolvedor Back-End & Estudante na ETEC
+### 🐍 Desenvolvedor FullStack & Estudante na ETEC
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzcXBzeXI1ZnpjdXVjcmlwMGs5bzI5OHBrcXV0bnl4aHNuaWZ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4vMmnnPx/giphy.gif" width="400" alt="Developer GIF">
 
@@ -22,7 +22,7 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 **Estudante:** Cursando o 2º ano do Ensino Técnico Integrado ao Médio na **ETEC**.
-- 🎯 **Foco de Carreira:** Desenvolvedor **Back-End**.
+- 🎯 **Foco de Carreira:** Desenvolvedor **FullStack**.
 - 💻 **Linguagem Principal:** **Python**, utilizando em projetos e estudos diários.
 - 🏋️‍♂️ **Evolução Diária:** Resolvendo exercícios de lógica e praticando programação continuamente.
 - 🚀 **Destaque:** Desenvolvi a modelagem e estrutura de **Banco de Dados para uma loja de açaí fictícia**, apresentada na Feira Tecnológica da escola.
